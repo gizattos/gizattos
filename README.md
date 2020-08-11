@@ -1,6 +1,8 @@
 ### Hi there 👋
-
+[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giovanni-riccardi-lourenzatto/)](https://www.linkedin.com/in/giovanni-riccardi-lourenzatto/)
 <!--
+[![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:kanna6501@gmail.com)
+
 **gizattos/gizattos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
